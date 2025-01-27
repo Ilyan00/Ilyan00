@@ -8,4 +8,4 @@
  📫 How to reach me: [Linkedin](www.linkedin.com/in/ilyan-jude-bain-trimbach-1687a9291)
 
 ## My skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,mysql,figma,tailwind,nodejs)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,mysql,figma,tailwind,nodejs)
